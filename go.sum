@@ -1,0 +1,11 @@
+github.com/alexedwards/scs/v2 v2.4.0/go.mod h1:ToaROZxyKukJKT/xLcVQAChi5k6+Pn1Gvmdl7h3RRj8=
+github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d h1:Byv0BzEl3/e6D5CLfI0j/7hiIEtvGVFPCZ7Ei2oq8iQ=
+github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
+github.com/bartvanbenthem/gofound-web v0.0.0-20210929065748-8622d2cdae4c/go.mod h1:aQD2IWOT+lSIZEunfCrsA20+6lHODS+60xSx481QSWk=
+github.com/bartvanbenthem/gofound-webapp v0.0.0-20220117072850-1a9f7ebd99a2 h1:VmT9No0J7qcEmENZ6qcAPyUAAHqBSAhYI0l1b6mHp+c=
+github.com/bartvanbenthem/gofound-webapp v0.0.0-20220117072850-1a9f7ebd99a2/go.mod h1:RF7KIQ+lsdF5nnoSWm2Mi5o6gS8FNYcRjfjXGP19dvs=
+github.com/go-chi/chi v1.5.4/go.mod h1:uaf8YgoFazUOkPBG7fxPftUylNumIev9awIWOENIuEg=
+github.com/go-chi/chi/v5 v5.0.3/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/justinas/nosurf v1.1.1/go.mod h1:ALpWdSbuNGy2lZWtyXdjkYv4edL23oSEgfBT1gPJ5BQ=
+github.com/xhit/go-simple-mail v2.2.2+incompatible h1:Hm2VGfLqiQJ/NnC8SYsrPOPyVYIlvP2kmnotP4RIV74=
+github.com/xhit/go-simple-mail v2.2.2+incompatible/go.mod h1:I8Ctg6vIJZ+Sv7k/22M6oeu/tbFumDY0uxBuuLbtU7Y=
